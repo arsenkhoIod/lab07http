@@ -25,4 +25,4 @@ class suggester_server {
 
 [[noreturn]] void update_collection(const std::string &filename_json);
 
-#endif // INCLUDE_SUGGESTER_HEADER_HPP_
+#endif // INCLUDE_SUGGESTER_SERVER_HPP_

@@ -75,4 +75,3 @@ std::string suggester_server::suggest(const std::string &input) const {
     std::this_thread::sleep_for(std::chrono::minutes(minutes_time));
   }
 }
-#include <suggester_server.hpp>
