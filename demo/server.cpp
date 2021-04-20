@@ -168,7 +168,6 @@ do_session(tcp::socket& socket,
 
 //------------------------------------------------------------------------------
 
-
 int main(int argc, char* argv[])
 {
   const std::string filename("json_source.json");
